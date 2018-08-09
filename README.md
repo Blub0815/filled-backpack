@@ -11,3 +11,7 @@ Place a Box in your Mission. Now we have 2 Options
 
 >Option 2
 >Copy this script and paste it in the Box init
+***
+# Attention
+
+If you like to add more Items to your Box then you musst insert the Bagpack script first.
